@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/mlops-loan-prediction-project/mlruns/583178729612758303/cce358a8ef0744a1ba79bf04f915f441/artifacts
+end_time: 1741978281118
+entry_point_name: ''
+experiment_id: '583178729612758303'
+lifecycle_stage: active
+run_id: cce358a8ef0744a1ba79bf04f915f441
+run_name: monumental-mare-772
+run_uuid: cce358a8ef0744a1ba79bf04f915f441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741978281000
+status: 4
+tags: []
+user_id: Lenovo

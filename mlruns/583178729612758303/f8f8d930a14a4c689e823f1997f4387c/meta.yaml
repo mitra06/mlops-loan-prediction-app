@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/mlops-loan-prediction-project/mlruns/583178729612758303/f8f8d930a14a4c689e823f1997f4387c/artifacts
+end_time: 1741978432581
+entry_point_name: ''
+experiment_id: '583178729612758303'
+lifecycle_stage: active
+run_id: f8f8d930a14a4c689e823f1997f4387c
+run_name: carefree-ant-14
+run_uuid: f8f8d930a14a4c689e823f1997f4387c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741978421339
+status: 3
+tags: []
+user_id: Lenovo

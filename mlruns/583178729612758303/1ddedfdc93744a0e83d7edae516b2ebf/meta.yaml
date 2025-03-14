@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/mlops-loan-prediction-project/mlruns/583178729612758303/1ddedfdc93744a0e83d7edae516b2ebf/artifacts
+end_time: 1741978042382
+entry_point_name: ''
+experiment_id: '583178729612758303'
+lifecycle_stage: active
+run_id: 1ddedfdc93744a0e83d7edae516b2ebf
+run_name: wise-chimp-710
+run_uuid: 1ddedfdc93744a0e83d7edae516b2ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741978041987
+status: 4
+tags: []
+user_id: Lenovo

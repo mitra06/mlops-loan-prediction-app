@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/mlops-loan-prediction-project/mlruns/583178729612758303/d4962a5568eb464d9c3e69fbdd421cad/artifacts
+end_time: 1741971285735
+entry_point_name: ''
+experiment_id: '583178729612758303'
+lifecycle_stage: active
+run_id: d4962a5568eb464d9c3e69fbdd421cad
+run_name: debonair-loon-157
+run_uuid: d4962a5568eb464d9c3e69fbdd421cad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741971280215
+status: 3
+tags: []
+user_id: Lenovo
