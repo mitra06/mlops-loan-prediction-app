@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: loan-prediction
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: loan-prediction
+  template:
+    metadata:
+      labels:
+        app: loan-prediction
+    spec:
+      containers:
+        - name: loan-prediction
+          image: loan-prediction:latest
+          ports:
+            - containerPort: 8000
